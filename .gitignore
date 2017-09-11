@@ -89,3 +89,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+quickstart.py
+client_secret.json
